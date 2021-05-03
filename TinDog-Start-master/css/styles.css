@@ -1,19 +1,22 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
 #title {
   background: #ff4c68;
   color: #fff;
 }
 h1 {
-  font-family: "montserrast-bold";
+  font-weight: 700;
   font-size: 3rem;
   line-height: 1.5;
 }
 h2 {
-  font-family: "montserrast-bold";
+  font-weight: 700;
   font-size: 3.5rem;
   line-height: 1.5;
 }
 h3 {
-  font-family: "montserrast-bold";
+  font-weight: 700;
   font-weight: bold;
 }
 p {
@@ -94,7 +97,7 @@ p {
   color: #fff;
 }
 #cta h3 {
-  font-family: "montserrast-bold";
+  font-weight: 700;
   color: #fff;
   font-size: 3.5rem;
   line-height: 1.5;
